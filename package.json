@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "express": "^4.18.1",
+    "sqlite": "^4.1.1",
     "sqlite3": "^5.0.8"
   },
   "name": "curriculosemana6",
@@ -13,7 +14,15 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ueliton",
   "license": "ISC",
-  "description": ""
+  "description": "servidordomeucurriculo",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ueliton2022/curriculodoueliton.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ueliton2022/curriculodoueliton/issues"
+  },
+  "homepage": "https://github.com/Ueliton2022/curriculodoueliton#readme"
 }
