@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "sqlite3": "^5.0.8"
+  },
+  "name": "curriculosemana6",
+  "version": "1.0.0",
+  "main": "app_51.js",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
